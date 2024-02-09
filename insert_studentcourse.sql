@@ -1,0 +1,5 @@
+--insert into StudentCourse (Cource_Id,Rollno) Values(1,1);
+--insert into StudentCourse (Cource_Id,Rollno) Values(3,2);
+--insert into StudentCourse (Cource_Id,Rollno) Values(2,3);
+--insert into StudentCourse (Cource_Id,Rollno) Values(2,4);
+--insert into StudentCourse (Cource_Id,Rollno) Values(3,5);
